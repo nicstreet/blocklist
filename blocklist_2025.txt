@@ -1,2 +1,3 @@
 0.0.0.0 bitcoinhyper.com
 0.0.0.0 mancity.com
+0.0.0.0 coincentral.com
